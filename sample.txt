@@ -1,0 +1,3 @@
+Hello
+I am doing Assignment 4th first task
+using file functions and exception handling
